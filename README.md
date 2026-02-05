@@ -9,7 +9,6 @@ Let's get started! 💪
 ## Objective
 
 Your task is to:
-
 1. Develop your own ERC20 token.
 2. Deploy it to Scroll Sepolia Testnet.
 3. And finally verify it.
